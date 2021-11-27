@@ -1,0 +1,14 @@
+>> training started@20210928_121240 <<
+epoch #1/10 | loss: 5.88 | elapsed time: 7403 s | batch_wait: 0.04 ms | model_train: 47.88 ms
+epoch #2/10 | loss: 5.65 | elapsed time: 14811 s | batch_wait: 0.04 ms | model_train: 47.92 ms
+epoch #3/10 | loss: 5.54 | elapsed time: 22219 s | batch_wait: 0.04 ms | model_train: 47.91 ms
+epoch #4/10 | loss: 5.46 | elapsed time: 29627 s | batch_wait: 0.04 ms | model_train: 47.92 ms
+epoch #5/10 | loss: 5.39 | elapsed time: 37036 s | batch_wait: 0.04 ms | model_train: 47.92 ms
+epoch #6/10 | loss: 5.34 | elapsed time: 44444 s | batch_wait: 0.04 ms | model_train: 47.92 ms
+epoch #7/10 | loss: 5.30 | elapsed time: 51853 s | batch_wait: 0.04 ms | model_train: 47.92 ms
+epoch #8/10 | loss: 5.26 | elapsed time: 59262 s | batch_wait: 0.04 ms | model_train: 47.92 ms
+epoch #9/10 | loss: 5.22 | elapsed time: 66673 s | batch_wait: 0.04 ms | model_train: 47.94 ms
+epoch #10/10 | loss: 5.19 | elapsed time: 74085 s | batch_wait: 0.04 ms | model_train: 47.94 ms
+>> training finished@20210929_084725 <<
+saved_models/20210929_084725_BTQYGCG saved
+perplexity on test data: 207.53

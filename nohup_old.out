@@ -1,0 +1,14 @@
+>> training started@20210916_134719 <<
+epoch #1/10 | loss: 5.88 | elapsed time: 7392 s | batch_wait: 0.04 ms | model_train: 47.80 ms
+epoch #2/10 | loss: 5.64 | elapsed time: 14786 s | batch_wait: 0.04 ms | model_train: 47.81 ms
+epoch #3/10 | loss: 5.53 | elapsed time: 22183 s | batch_wait: 0.04 ms | model_train: 47.84 ms
+epoch #4/10 | loss: 5.45 | elapsed time: 29581 s | batch_wait: 0.04 ms | model_train: 47.84 ms
+epoch #5/10 | loss: 5.39 | elapsed time: 36980 s | batch_wait: 0.04 ms | model_train: 47.85 ms
+epoch #6/10 | loss: 5.33 | elapsed time: 44379 s | batch_wait: 0.04 ms | model_train: 47.85 ms
+epoch #7/10 | loss: 5.29 | elapsed time: 51778 s | batch_wait: 0.04 ms | model_train: 47.85 ms
+epoch #8/10 | loss: 5.25 | elapsed time: 59179 s | batch_wait: 0.04 ms | model_train: 47.86 ms
+epoch #9/10 | loss: 5.22 | elapsed time: 66580 s | batch_wait: 0.04 ms | model_train: 47.86 ms
+epoch #10/10 | loss: 5.19 | elapsed time: 74081 s | batch_wait: 0.08 ms | model_train: 48.59 ms
+>> training finished@20210917_102159 <<
+saved_models/20210917_102159_IXOYXWR saved
+perplexity on test data: 9.97
